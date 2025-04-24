@@ -56,3 +56,7 @@ A simple React application that allows users to change the background color of t
 - Interactive UI component to teach basic React
 
 - Interactive educational tool for color theory
+
+# Screenshot
+
+![image](Screenshot.png)
